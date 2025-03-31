@@ -1,0 +1,558 @@
+2025-03-31 14:41:27 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 14:41:57 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 14:46:09 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 14:47:38 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:07:51 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:08:13 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:08:29 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:08:45 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:09:01 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:09:17 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:09:35 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:10:14 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:10:37 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:10:37 [INFO] [EitaaCrawler:21] - Created directory at ./output/messages
+2025-03-31 15:10:37 [INFO] [EitaaCrawler:21] - Created directory at ./output/bios
+2025-03-31 15:10:37 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:10:49 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:10:49 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:10:49 [INFO] [EitaaCrawler:69] - Kafka integration disabled - using local storage only
+2025-03-31 15:10:49 [INFO] [EitaaCrawler:78] - Custom crawl interval set to 60 seconds
+2025-03-31 15:10:49 [INFO] [EitaaCrawler:86] - Proxy mode disabled - crawler will use direct connections
+2025-03-31 15:10:49 [ERROR] [EitaaCrawler:49] - ../config/users.json not found
+2025-03-31 15:10:49 [ERROR] [EitaaCrawler:91] - No channels to crawl
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:69] - Kafka integration disabled - using local storage only
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:78] - Custom crawl interval set to 60 seconds
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:86] - Proxy mode disabled - crawler will use direct connections
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:46] - Loaded 100 channels
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:95] - Starting crawler with 100 channels
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:23] - Initializing EitaaCrawler with 100 channels
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:34] - Initialized data handlers and network components
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:47] - No previous crawl history found
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:38] - Loaded last crawled times for 0 channels
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:274] - Starting crawler: 100 channels, interval 1m, Kafka False
+2025-03-31 15:11:04 [INFO] [EitaaCrawler:281] - Performing initial connectivity checks...
+2025-03-31 15:11:05 [INFO] [EitaaCrawler:265] - Initial checks: {'Internet': 'OK', 'Users File': 'OK'}
+2025-03-31 15:11:05 [INFO] [EitaaCrawler:288] - Initial checks passed successfully
+2025-03-31 15:11:05 [INFO] [EitaaCrawler:291] - Starting main crawling loop with 60s interval
+2025-03-31 15:11:05 [INFO] [EitaaCrawler:296] - Starting crawl cycle #1
+2025-03-31 15:11:05 [INFO] [EitaaCrawler:70] - Starting crawl job at 2025-03-31 15:11:05
+2025-03-31 15:11:05 [INFO] [EitaaCrawler:90] - Processing batch 1/10 with 10 channels
+2025-03-31 15:11:06 [INFO] [EitaaCrawler:82] - Fetched 0 messages from arzansaraa20 via direct (IP: 104.28.193.117)
+2025-03-31 15:11:06 [WARNING] [EitaaCrawler:140] - Failed to fetch data for arzansaraa20: No data
+2025-03-31 15:11:07 [INFO] [EitaaCrawler:82] - Fetched 0 messages from store_lux via direct (IP: 104.28.193.117)
+2025-03-31 15:11:07 [WARNING] [EitaaCrawler:140] - Failed to fetch data for store_lux: No data
+2025-03-31 15:11:07 [INFO] [EitaaCrawler:82] - Fetched 0 messages from DiivarCar via direct (IP: 104.28.193.117)
+2025-03-31 15:11:07 [WARNING] [EitaaCrawler:140] - Failed to fetch data for DiivarCar: No data
+2025-03-31 15:11:07 [WARNING] [EitaaCrawler:144] - Too many consecutive failures (3), taking a break...
+2025-03-31 15:12:09 [INFO] [EitaaCrawler:82] - Fetched 0 messages from hoghoogh_estekhdam via direct (IP: 104.28.225.117)
+2025-03-31 15:12:09 [WARNING] [EitaaCrawler:140] - Failed to fetch data for hoghoogh_estekhdam: No data
+2025-03-31 15:12:10 [INFO] [EitaaCrawler:82] - Fetched 0 messages from poshakebaranaa via direct (IP: 104.28.225.117)
+2025-03-31 15:12:10 [WARNING] [EitaaCrawler:140] - Failed to fetch data for poshakebaranaa: No data
+2025-03-31 15:12:10 [INFO] [EitaaCrawler:82] - Fetched 0 messages from pushakee_Celin via direct (IP: 104.28.225.117)
+2025-03-31 15:12:10 [WARNING] [EitaaCrawler:140] - Failed to fetch data for pushakee_Celin: No data
+2025-03-31 15:12:10 [WARNING] [EitaaCrawler:144] - Too many consecutive failures (3), taking a break...
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:119] - Logging system initialized with daily rotation
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:69] - Kafka integration disabled - using local storage only
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:80] - Using default crawl interval of 1800 seconds
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:86] - Proxy mode disabled - crawler will use direct connections
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:46] - Loaded 100 channels
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:95] - Starting crawler with 100 channels
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:23] - Initializing EitaaCrawler with 100 channels
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:34] - Initialized data handlers and network components
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:47] - No previous crawl history found
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:38] - Loaded last crawled times for 0 channels
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:274] - Starting crawler: 100 channels, interval 30m, Kafka False
+2025-03-31 15:13:39 [INFO] [EitaaCrawler:281] - Performing initial connectivity checks...
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:265] - Initial checks: {'Internet': 'OK', 'Users File': 'OK'}
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:288] - Initial checks passed successfully
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:291] - Starting main crawling loop with 1800s interval
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:296] - Starting crawl cycle #1
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:70] - Starting crawl job at 2025-03-31 15:13:40
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:90] - Processing batch 1/10 with 10 channels
+2025-03-31 15:13:40 [INFO] [EitaaCrawler:82] - Fetched 0 messages from arzansaraa20 via direct (IP: 2.187.120.162)
+2025-03-31 15:13:40 [WARNING] [EitaaCrawler:140] - Failed to fetch data for arzansaraa20: No data
+2025-03-31 15:13:41 [INFO] [EitaaCrawler:82] - Fetched 0 messages from store_lux via direct (IP: 2.187.120.162)
+2025-03-31 15:13:41 [WARNING] [EitaaCrawler:140] - Failed to fetch data for store_lux: No data
+2025-03-31 15:13:41 [INFO] [EitaaCrawler:82] - Fetched 0 messages from DiivarCar via direct (IP: 2.187.120.162)
+2025-03-31 15:13:41 [WARNING] [EitaaCrawler:140] - Failed to fetch data for DiivarCar: No data
+2025-03-31 15:13:41 [WARNING] [EitaaCrawler:144] - Too many consecutive failures (3), taking a break...
+2025-03-31 15:14:42 [INFO] [EitaaCrawler:82] - Fetched 0 messages from hoghoogh_estekhdam via direct (IP: 2.187.120.162)
+2025-03-31 15:14:42 [WARNING] [EitaaCrawler:140] - Failed to fetch data for hoghoogh_estekhdam: No data
+2025-03-31 15:14:43 [INFO] [EitaaCrawler:82] - Fetched 0 messages from poshakebaranaa via direct (IP: 2.187.120.162)
+2025-03-31 15:14:43 [WARNING] [EitaaCrawler:140] - Failed to fetch data for poshakebaranaa: No data
+2025-03-31 15:14:43 [INFO] [EitaaCrawler:82] - Fetched 0 messages from pushakee_Celin via direct (IP: 2.187.120.162)
+2025-03-31 15:14:43 [WARNING] [EitaaCrawler:140] - Failed to fetch data for pushakee_Celin: No data
+2025-03-31 15:14:43 [WARNING] [EitaaCrawler:144] - Too many consecutive failures (3), taking a break...
+2025-03-31 15:15:43 [INFO] [EitaaCrawler:82] - Fetched 0 messages from news_medu via direct (IP: 2.187.120.162)
+2025-03-31 15:15:43 [WARNING] [EitaaCrawler:140] - Failed to fetch data for news_medu: No data
+2025-03-31 15:15:44 [INFO] [EitaaCrawler:82] - Fetched 0 messages from golenarrgeess via direct (IP: 2.187.120.162)
+2025-03-31 15:15:44 [WARNING] [EitaaCrawler:140] - Failed to fetch data for golenarrgeess: No data
+2025-03-31 15:15:45 [INFO] [EitaaCrawler:82] - Fetched 0 messages from darya097 via direct (IP: 2.187.120.162)
+2025-03-31 15:15:45 [WARNING] [EitaaCrawler:140] - Failed to fetch data for darya097: No data
+2025-03-31 15:15:45 [WARNING] [EitaaCrawler:144] - Too many consecutive failures (3), taking a break...
+2025-03-31 15:16:45 [INFO] [EitaaCrawler:82] - Fetched 3 messages from news_khodro via direct (IP: 2.187.120.162)
+2025-03-31 15:16:45 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:16:45 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:16:45 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 2 in news_khodro, using current time
+2025-03-31 15:16:45 [INFO] [EitaaCrawler:216] - Saved 3 new messages for news_khodro
+2025-03-31 15:16:46 [INFO] [EitaaCrawler:238] - Saved 1 channel bios
+2025-03-31 15:16:46 [WARNING] [EitaaCrawler:246] - High failure rate in batch (9/10), delaying 45s before next batch
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:128] - Logging system initialized with daily rotation
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:69] - Kafka integration disabled - using local storage only
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:78] - Custom crawl interval set to 60 seconds
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:86] - Proxy mode disabled - crawler will use direct connections
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:46] - Loaded 100 channels
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:95] - Starting crawler with 100 channels
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:23] - Initializing EitaaCrawler with 100 channels
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:34] - Initialized data handlers and network components
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:38] - Loaded last crawled times for 1 channels
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:269] - Starting crawler: 100 channels, interval 1m, Kafka False
+2025-03-31 15:17:29 [INFO] [EitaaCrawler:276] - Performing initial connectivity checks...
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:277] - Initial checks: {'Internet': 'OK', 'Users File': 'OK'}
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:283] - Initial checks passed successfully
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:286] - Starting main crawling loop with 60s interval
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:291] - Starting crawl cycle #1
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:70] - Starting crawl job at 2025-03-31 15:17:30
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:90] - Processing batch 1/10 with 10 channels
+2025-03-31 15:17:30 [INFO] [EitaaCrawler:82] - Fetched 0 messages from arzansaraa20 via direct (IP: 2.187.120.162)
+2025-03-31 15:17:30 [WARNING] [EitaaCrawler:140] - Failed to fetch data for arzansaraa20: No data
+2025-03-31 15:17:31 [INFO] [EitaaCrawler:82] - Fetched 0 messages from store_lux via direct (IP: 2.187.120.162)
+2025-03-31 15:17:31 [WARNING] [EitaaCrawler:140] - Failed to fetch data for store_lux: No data
+2025-03-31 15:17:31 [INFO] [EitaaCrawler:82] - Fetched 0 messages from DiivarCar via direct (IP: 2.187.120.162)
+2025-03-31 15:17:31 [WARNING] [EitaaCrawler:140] - Failed to fetch data for DiivarCar: No data
+2025-03-31 15:17:31 [INFO] [EitaaCrawler:250] - Batch 1 completed in 231.90 seconds, 9 failures
+2025-03-31 15:17:31 [INFO] [EitaaCrawler:90] - Processing batch 2/10 with 10 channels
+2025-03-31 15:17:32 [INFO] [EitaaCrawler:82] - Fetched 0 messages from lavazemkhanehh via direct (IP: 2.187.120.162)
+2025-03-31 15:17:32 [WARNING] [EitaaCrawler:140] - Failed to fetch data for lavazemkhanehh: No data
+2025-03-31 15:17:32 [INFO] [EitaaCrawler:82] - Fetched 0 messages from divarborkhar2 via direct (IP: 2.187.120.162)
+2025-03-31 15:17:32 [WARNING] [EitaaCrawler:140] - Failed to fetch data for divarborkhar2: No data
+2025-03-31 15:17:32 [INFO] [EitaaCrawler:82] - Fetched 0 messages from hoghoogh_estekhdam via direct (IP: 2.187.120.162)
+2025-03-31 15:17:32 [WARNING] [EitaaCrawler:140] - Failed to fetch data for hoghoogh_estekhdam: No data
+2025-03-31 15:17:33 [INFO] [EitaaCrawler:82] - Fetched 0 messages from payiizan via direct (IP: 2.187.120.162)
+2025-03-31 15:17:33 [WARNING] [EitaaCrawler:140] - Failed to fetch data for payiizan: No data
+2025-03-31 15:17:33 [WARNING] [EitaaCrawler:144] - Too many consecutive failures (3), taking a break...
+2025-03-31 15:17:33 [INFO] [EitaaCrawler:82] - Fetched 0 messages from poshakebaranaa via direct (IP: 2.187.120.162)
+2025-03-31 15:17:33 [WARNING] [EitaaCrawler:140] - Failed to fetch data for poshakebaranaa: No data
+2025-03-31 15:17:33 [INFO] [EitaaCrawler:82] - Fetched 0 messages from pushakee_Celin via direct (IP: 2.187.120.162)
+2025-03-31 15:17:33 [WARNING] [EitaaCrawler:140] - Failed to fetch data for pushakee_Celin: No data
+2025-03-31 15:17:34 [INFO] [EitaaCrawler:82] - Fetched 0 messages from news_medu via direct (IP: 2.187.120.162)
+2025-03-31 15:17:34 [WARNING] [EitaaCrawler:140] - Failed to fetch data for news_medu: No data
+2025-03-31 15:17:34 [INFO] [EitaaCrawler:82] - Fetched 0 messages from golenarrgeess via direct (IP: 2.187.120.162)
+2025-03-31 15:17:34 [WARNING] [EitaaCrawler:140] - Failed to fetch data for golenarrgeess: No data
+2025-03-31 15:17:35 [INFO] [EitaaCrawler:82] - Fetched 0 messages from darya097 via direct (IP: 2.187.120.162)
+2025-03-31 15:17:35 [WARNING] [EitaaCrawler:140] - Failed to fetch data for darya097: No data
+2025-03-31 15:17:36 [INFO] [EitaaCrawler:82] - Fetched 3 messages from news_khodro via direct (IP: 2.187.120.162)
+2025-03-31 15:17:36 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:17:36 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:17:36 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 2 in news_khodro, using current time
+2025-03-31 15:17:37 [INFO] [EitaaCrawler:233] - Saved 1 channel bios
+2025-03-31 15:17:37 [WARNING] [EitaaCrawler:241] - High failure rate in batch (9/10), delaying 45s before next batch
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:128] - Logging system initialized with daily rotation
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:69] - Kafka integration disabled - using local storage only
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:80] - Using default crawl interval of 1800 seconds
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:86] - Proxy mode disabled - crawler will use direct connections
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:46] - Loaded 100 channels
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:95] - Starting crawler with 100 channels
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:23] - Initializing EitaaCrawler with 100 channels
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:34] - Initialized data handlers and network components
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:38] - Loaded last crawled times for 1 channels
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:269] - Starting crawler: 100 channels, interval 30m, Kafka False
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:276] - Performing initial connectivity checks...
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:277] - Initial checks: {'Internet': 'OK', 'Users File': 'OK'}
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:283] - Initial checks passed successfully
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:286] - Starting main crawling loop with 1800s interval
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:291] - Starting crawl cycle #1
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:70] - Starting crawl job at 2025-03-31 15:17:53
+2025-03-31 15:17:53 [INFO] [EitaaCrawler:90] - Processing batch 1/10 with 10 channels
+2025-03-31 15:17:54 [INFO] [EitaaCrawler:82] - Fetched 0 messages from arzansaraa20 via direct (IP: 2.187.120.162)
+2025-03-31 15:17:54 [WARNING] [EitaaCrawler:140] - Failed to fetch data for arzansaraa20: No data
+2025-03-31 15:17:55 [INFO] [EitaaCrawler:82] - Fetched 0 messages from store_lux via direct (IP: 2.187.120.162)
+2025-03-31 15:17:55 [WARNING] [EitaaCrawler:140] - Failed to fetch data for store_lux: No data
+2025-03-31 15:17:55 [INFO] [EitaaCrawler:82] - Fetched 0 messages from DiivarCar via direct (IP: 2.187.120.162)
+2025-03-31 15:17:55 [WARNING] [EitaaCrawler:140] - Failed to fetch data for DiivarCar: No data
+2025-03-31 15:17:56 [INFO] [EitaaCrawler:82] - Fetched 0 messages from hoghoogh_estekhdam via direct (IP: 2.187.120.162)
+2025-03-31 15:17:56 [WARNING] [EitaaCrawler:140] - Failed to fetch data for hoghoogh_estekhdam: No data
+2025-03-31 15:17:56 [INFO] [EitaaCrawler:82] - Fetched 0 messages from poshakebaranaa via direct (IP: 2.187.120.162)
+2025-03-31 15:17:56 [WARNING] [EitaaCrawler:140] - Failed to fetch data for poshakebaranaa: No data
+2025-03-31 15:17:57 [INFO] [EitaaCrawler:82] - Fetched 0 messages from pushakee_Celin via direct (IP: 2.187.120.162)
+2025-03-31 15:17:57 [WARNING] [EitaaCrawler:140] - Failed to fetch data for pushakee_Celin: No data
+2025-03-31 15:17:57 [INFO] [EitaaCrawler:82] - Fetched 0 messages from news_medu via direct (IP: 2.187.120.162)
+2025-03-31 15:17:57 [WARNING] [EitaaCrawler:140] - Failed to fetch data for news_medu: No data
+2025-03-31 15:17:58 [INFO] [EitaaCrawler:82] - Fetched 0 messages from golenarrgeess via direct (IP: 2.187.120.162)
+2025-03-31 15:17:58 [WARNING] [EitaaCrawler:140] - Failed to fetch data for golenarrgeess: No data
+2025-03-31 15:17:58 [INFO] [EitaaCrawler:82] - Fetched 0 messages from darya097 via direct (IP: 2.187.120.162)
+2025-03-31 15:17:58 [WARNING] [EitaaCrawler:140] - Failed to fetch data for darya097: No data
+2025-03-31 15:18:00 [INFO] [EitaaCrawler:82] - Fetched 3 messages from news_khodro via direct (IP: 2.187.120.162)
+2025-03-31 15:18:00 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:18:00 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:18:00 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 2 in news_khodro, using current time
+2025-03-31 15:18:01 [INFO] [EitaaCrawler:233] - Saved 1 channel bios
+2025-03-31 15:18:01 [WARNING] [EitaaCrawler:241] - High failure rate in batch (9/10), delaying 45s before next batch
+2025-03-31 15:18:46 [INFO] [EitaaCrawler:245] - Batch 1 completed in 52.27 seconds, 9 failures
+2025-03-31 15:18:46 [INFO] [EitaaCrawler:90] - Processing batch 2/10 with 10 channels
+2025-03-31 15:18:46 [INFO] [EitaaCrawler:82] - Fetched 0 messages from lavazemkhanehh via direct (IP: 2.187.120.162)
+2025-03-31 15:18:46 [WARNING] [EitaaCrawler:140] - Failed to fetch data for lavazemkhanehh: No data
+2025-03-31 15:18:47 [INFO] [EitaaCrawler:82] - Fetched 0 messages from divarborkhar2 via direct (IP: 2.187.120.162)
+2025-03-31 15:18:47 [WARNING] [EitaaCrawler:140] - Failed to fetch data for divarborkhar2: No data
+2025-03-31 15:18:47 [INFO] [EitaaCrawler:82] - Fetched 0 messages from payiizan via direct (IP: 2.187.120.162)
+2025-03-31 15:18:47 [WARNING] [EitaaCrawler:140] - Failed to fetch data for payiizan: No data
+2025-03-31 15:18:48 [INFO] [EitaaCrawler:82] - Fetched 14 messages from termehkadeyazd via direct (IP: 2.187.120.162)
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 5 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 5 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 7 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 8 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 8 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 10 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 10 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 11 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 12 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 12 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 13 in termehkadeyazd, using current time
+2025-03-31 15:18:48 [INFO] [EitaaCrawler:211] - Saved 14 new messages for termehkadeyazd
+2025-03-31 15:18:50 [INFO] [EitaaCrawler:82] - Fetched 0 messages from zeinab9400 via direct (IP: 2.187.120.162)
+2025-03-31 15:18:50 [WARNING] [EitaaCrawler:140] - Failed to fetch data for zeinab9400: No data
+2025-03-31 15:18:50 [INFO] [EitaaCrawler:82] - Fetched 0 messages from yasharmo via direct (IP: 2.187.120.162)
+2025-03-31 15:18:50 [WARNING] [EitaaCrawler:140] - Failed to fetch data for yasharmo: No data
+2025-03-31 15:18:51 [INFO] [EitaaCrawler:82] - Fetched 3 messages from nafasboutique via direct (IP: 2.187.120.162)
+2025-03-31 15:18:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in nafasboutique, using current time
+2025-03-31 15:18:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in nafasboutique, using current time
+2025-03-31 15:18:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 2 in nafasboutique, using current time
+2025-03-31 15:18:51 [INFO] [EitaaCrawler:211] - Saved 3 new messages for nafasboutique
+2025-03-31 15:18:53 [INFO] [EitaaCrawler:82] - Fetched 5 messages from accessorizarmoo via direct (IP: 2.187.120.162)
+2025-03-31 15:18:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19664 in accessorizarmoo, using current time
+2025-03-31 15:18:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19665 in accessorizarmoo, using current time
+2025-03-31 15:18:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19669 in accessorizarmoo, using current time
+2025-03-31 15:18:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19670 in accessorizarmoo, using current time
+2025-03-31 15:18:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19673 in accessorizarmoo, using current time
+2025-03-31 15:18:53 [INFO] [EitaaCrawler:211] - Saved 5 new messages for accessorizarmoo
+2025-03-31 15:18:55 [INFO] [EitaaCrawler:82] - Fetched 12 messages from kasbkarr via direct (IP: 2.187.120.162)
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47082 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47084 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47085 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47089 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47091 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47092 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47093 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47094 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47095 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47096 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47097 in kasbkarr, using current time
+2025-03-31 15:18:55 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47098 in kasbkarr, using current time
+2025-03-31 15:18:55 [INFO] [EitaaCrawler:211] - Saved 12 new messages for kasbkarr
+2025-03-31 15:18:57 [INFO] [EitaaCrawler:82] - Fetched 12 messages from Yekta_gold_yazd via direct (IP: 2.187.120.162)
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27994 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27995 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27996 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27997 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27998 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27999 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28000 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28001 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28002 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28004 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28005 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28006 in Yekta_gold_yazd, using current time
+2025-03-31 15:18:57 [INFO] [EitaaCrawler:211] - Saved 12 new messages for Yekta_gold_yazd
+2025-03-31 15:18:58 [INFO] [EitaaCrawler:233] - Saved 5 channel bios
+2025-03-31 15:18:58 [INFO] [EitaaCrawler:245] - Batch 2 completed in 12.13 seconds, 5 failures
+2025-03-31 15:18:58 [INFO] [EitaaCrawler:90] - Processing batch 3/10 with 10 channels
+2025-03-31 15:18:59 [INFO] [EitaaCrawler:82] - Fetched 12 messages from iscanews_ir via direct (IP: 2.187.120.162)
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31044 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31045 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31046 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31047 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31048 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31049 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31050 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31051 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31052 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31053 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31054 in iscanews_ir, using current time
+2025-03-31 15:18:59 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31055 in iscanews_ir, using current time
+2025-03-31 15:18:59 [INFO] [EitaaCrawler:211] - Saved 12 new messages for iscanews_ir
+2025-03-31 15:19:01 [INFO] [EitaaCrawler:82] - Fetched 6 messages from khndebazar via direct (IP: 2.187.120.162)
+2025-03-31 15:19:01 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 24 in khndebazar, using current time
+2025-03-31 15:19:01 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 34 in khndebazar, using current time
+2025-03-31 15:19:01 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 37 in khndebazar, using current time
+2025-03-31 15:19:01 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 38 in khndebazar, using current time
+2025-03-31 15:19:01 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 38 in khndebazar, using current time
+2025-03-31 15:19:01 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 39 in khndebazar, using current time
+2025-03-31 15:19:01 [INFO] [EitaaCrawler:211] - Saved 6 new messages for khndebazar
+2025-03-31 15:19:03 [INFO] [EitaaCrawler:82] - Fetched 12 messages from qom_ma via direct (IP: 2.187.120.162)
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19424 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19425 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19426 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19429 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19430 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19433 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19434 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19438 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19439 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19440 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19441 in qom_ma, using current time
+2025-03-31 15:19:03 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19442 in qom_ma, using current time
+2025-03-31 15:19:03 [INFO] [EitaaCrawler:211] - Saved 12 new messages for qom_ma
+2025-03-31 15:19:05 [INFO] [EitaaCrawler:82] - Fetched 12 messages from sanandaj_ma via direct (IP: 2.187.120.162)
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15194 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15195 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15196 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15197 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15198 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15199 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15202 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15206 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15207 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15208 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15209 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15210 in sanandaj_ma, using current time
+2025-03-31 15:19:05 [INFO] [EitaaCrawler:211] - Saved 12 new messages for sanandaj_ma
+2025-03-31 15:19:06 [INFO] [EitaaCrawler:82] - Fetched 12 messages from kermanshah_ma via direct (IP: 2.187.120.162)
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14564 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14567 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14568 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14569 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14570 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14574 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14575 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14576 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14577 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14578 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14579 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 14580 in kermanshah_ma, using current time
+2025-03-31 15:19:06 [INFO] [EitaaCrawler:211] - Saved 12 new messages for kermanshah_ma
+2025-03-31 15:19:08 [INFO] [EitaaCrawler:82] - Fetched 12 messages from yazd_maa via direct (IP: 2.187.120.162)
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16932 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16933 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16934 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16935 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16936 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16937 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16941 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16942 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16943 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16944 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16945 in yazd_maa, using current time
+2025-03-31 15:19:08 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 16946 in yazd_maa, using current time
+2025-03-31 15:19:08 [INFO] [EitaaCrawler:211] - Saved 12 new messages for yazd_maa
+2025-03-31 15:19:10 [INFO] [EitaaCrawler:82] - Fetched 12 messages from rodsar_ma via direct (IP: 2.187.120.162)
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15281 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15282 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15283 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15284 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15285 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15286 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15287 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15288 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15289 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15290 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15291 in rodsar_ma, using current time
+2025-03-31 15:19:10 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 15292 in rodsar_ma, using current time
+2025-03-31 15:19:10 [INFO] [EitaaCrawler:211] - Saved 12 new messages for rodsar_ma
+2025-03-31 15:19:11 [INFO] [EitaaCrawler:82] - Fetched 12 messages from ashpazi882 via direct (IP: 2.187.120.162)
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27994 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27995 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27996 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27998 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27999 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28000 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28001 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28002 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28003 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28005 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28006 in ashpazi882, using current time
+2025-03-31 15:19:11 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28007 in ashpazi882, using current time
+2025-03-31 15:19:11 [INFO] [EitaaCrawler:211] - Saved 12 new messages for ashpazi882
+2025-03-31 15:19:13 [INFO] [EitaaCrawler:82] - Fetched 12 messages from kharide_asan via direct (IP: 2.187.120.162)
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47837 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47838 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47839 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47840 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47841 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47882 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47883 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47894 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47897 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47898 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47906 in kharide_asan, using current time
+2025-03-31 15:19:13 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47907 in kharide_asan, using current time
+2025-03-31 15:19:13 [INFO] [EitaaCrawler:211] - Saved 12 new messages for kharide_asan
+2025-03-31 15:19:15 [INFO] [EitaaCrawler:82] - Fetched 12 messages from Shekaamo via direct (IP: 2.187.120.162)
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33643 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33646 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33647 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33648 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33649 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33650 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33651 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33652 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33653 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33654 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33655 in Shekaamo, using current time
+2025-03-31 15:19:15 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 33656 in Shekaamo, using current time
+2025-03-31 15:19:15 [INFO] [EitaaCrawler:211] - Saved 12 new messages for Shekaamo
+2025-03-31 15:19:16 [INFO] [EitaaCrawler:233] - Saved 10 channel bios
+2025-03-31 15:19:16 [INFO] [EitaaCrawler:245] - Batch 3 completed in 18.33 seconds, 0 failures
+2025-03-31 15:19:16 [INFO] [EitaaCrawler:90] - Processing batch 4/10 with 10 channels
+2025-03-31 15:19:17 [INFO] [EitaaCrawler:82] - Fetched 10 messages from shikpoosh_baby via direct (IP: 2.187.120.162)
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28799 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28800 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28801 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28802 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28803 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28804 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28805 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28806 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28807 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28808 in shikpoosh_baby, using current time
+2025-03-31 15:19:17 [INFO] [EitaaCrawler:211] - Saved 10 new messages for shikpoosh_baby
+2025-03-31 15:19:19 [INFO] [EitaaCrawler:82] - Fetched 12 messages from AI_Age via direct (IP: 2.187.120.162)
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9099 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9100 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9101 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9102 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9103 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9104 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9105 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9106 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9107 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9108 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9109 in AI_Age, using current time
+2025-03-31 15:19:19 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9110 in AI_Age, using current time
+2025-03-31 15:19:19 [INFO] [EitaaCrawler:211] - Saved 12 new messages for AI_Age
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:128] - Logging system initialized with daily rotation
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:23] - Eitaa Crawler application starting with outputs in ./output/messages
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:69] - Kafka integration disabled - using local storage only
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:80] - Using default crawl interval of 1800 seconds
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:86] - Proxy mode disabled - crawler will use direct connections
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:46] - Loaded 100 channels
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:95] - Starting crawler with 100 channels
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:23] - Initializing EitaaCrawler with 100 channels
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:34] - Initialized data handlers and network components
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:38] - Loaded last crawled times for 18 channels
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:269] - Starting crawler: 100 channels, interval 30m, Kafka False
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:276] - Performing initial connectivity checks...
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:277] - Initial checks: {'Internet': 'OK', 'Users File': 'OK'}
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:283] - Initial checks passed successfully
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:286] - Starting main crawling loop with 1800s interval
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:291] - Starting crawl cycle #1
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:70] - Starting crawl job at 2025-03-31 15:31:44
+2025-03-31 15:31:44 [INFO] [EitaaCrawler:90] - Processing batch 1/10 with 10 channels
+2025-03-31 15:31:45 [INFO] [EitaaCrawler:82] - Fetched 0 messages from arzansaraa20 via direct (IP: 2.187.120.162)
+2025-03-31 15:31:45 [WARNING] [EitaaCrawler:140] - Failed to fetch data for arzansaraa20: No data
+2025-03-31 15:31:45 [INFO] [EitaaCrawler:82] - Fetched 0 messages from store_lux via direct (IP: 2.187.120.162)
+2025-03-31 15:31:45 [WARNING] [EitaaCrawler:140] - Failed to fetch data for store_lux: No data
+2025-03-31 15:31:46 [INFO] [EitaaCrawler:82] - Fetched 0 messages from DiivarCar via direct (IP: 2.187.120.162)
+2025-03-31 15:31:46 [WARNING] [EitaaCrawler:140] - Failed to fetch data for DiivarCar: No data
+2025-03-31 15:31:47 [INFO] [EitaaCrawler:82] - Fetched 0 messages from hoghoogh_estekhdam via direct (IP: 2.187.120.162)
+2025-03-31 15:31:47 [WARNING] [EitaaCrawler:140] - Failed to fetch data for hoghoogh_estekhdam: No data
+2025-03-31 15:31:47 [INFO] [EitaaCrawler:82] - Fetched 0 messages from poshakebaranaa via direct (IP: 2.187.120.162)
+2025-03-31 15:31:47 [WARNING] [EitaaCrawler:140] - Failed to fetch data for poshakebaranaa: No data
+2025-03-31 15:31:47 [INFO] [EitaaCrawler:82] - Fetched 0 messages from pushakee_Celin via direct (IP: 2.187.120.162)
+2025-03-31 15:31:47 [WARNING] [EitaaCrawler:140] - Failed to fetch data for pushakee_Celin: No data
+2025-03-31 15:31:48 [INFO] [EitaaCrawler:82] - Fetched 0 messages from news_medu via direct (IP: 2.187.120.162)
+2025-03-31 15:31:48 [WARNING] [EitaaCrawler:140] - Failed to fetch data for news_medu: No data
+2025-03-31 15:31:49 [INFO] [EitaaCrawler:82] - Fetched 0 messages from golenarrgeess via direct (IP: 2.187.120.162)
+2025-03-31 15:31:49 [WARNING] [EitaaCrawler:140] - Failed to fetch data for golenarrgeess: No data
+2025-03-31 15:31:49 [INFO] [EitaaCrawler:82] - Fetched 0 messages from darya097 via direct (IP: 2.187.120.162)
+2025-03-31 15:31:49 [WARNING] [EitaaCrawler:140] - Failed to fetch data for darya097: No data
+2025-03-31 15:31:50 [INFO] [EitaaCrawler:82] - Fetched 3 messages from news_khodro via direct (IP: 2.187.120.162)
+2025-03-31 15:31:50 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:31:50 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in news_khodro, using current time
+2025-03-31 15:31:50 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 2 in news_khodro, using current time
+2025-03-31 15:31:51 [INFO] [EitaaCrawler:233] - Saved 1 channel bios
+2025-03-31 15:31:51 [WARNING] [EitaaCrawler:241] - High failure rate in batch (9/10), delaying 45s before next batch
+2025-03-31 15:32:36 [INFO] [EitaaCrawler:245] - Batch 1 completed in 51.80 seconds, 9 failures
+2025-03-31 15:32:36 [INFO] [EitaaCrawler:90] - Processing batch 2/10 with 10 channels
+2025-03-31 15:32:37 [INFO] [EitaaCrawler:82] - Fetched 0 messages from lavazemkhanehh via direct (IP: 2.187.120.162)
+2025-03-31 15:32:37 [WARNING] [EitaaCrawler:140] - Failed to fetch data for lavazemkhanehh: No data
+2025-03-31 15:32:38 [INFO] [EitaaCrawler:82] - Fetched 0 messages from divarborkhar2 via direct (IP: 2.187.120.162)
+2025-03-31 15:32:38 [WARNING] [EitaaCrawler:140] - Failed to fetch data for divarborkhar2: No data
+2025-03-31 15:32:38 [INFO] [EitaaCrawler:82] - Fetched 0 messages from payiizan via direct (IP: 2.187.120.162)
+2025-03-31 15:32:38 [WARNING] [EitaaCrawler:140] - Failed to fetch data for payiizan: No data
+2025-03-31 15:32:39 [INFO] [EitaaCrawler:82] - Fetched 14 messages from termehkadeyazd via direct (IP: 2.187.120.162)
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 5 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 5 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 7 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 8 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 8 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 9 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 10 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 10 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 11 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 12 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 12 in termehkadeyazd, using current time
+2025-03-31 15:32:39 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 13 in termehkadeyazd, using current time
+2025-03-31 15:32:41 [INFO] [EitaaCrawler:82] - Fetched 0 messages from zeinab9400 via direct (IP: 2.187.120.162)
+2025-03-31 15:32:41 [WARNING] [EitaaCrawler:140] - Failed to fetch data for zeinab9400: No data
+2025-03-31 15:32:41 [INFO] [EitaaCrawler:82] - Fetched 0 messages from yasharmo via direct (IP: 2.187.120.162)
+2025-03-31 15:32:41 [WARNING] [EitaaCrawler:140] - Failed to fetch data for yasharmo: No data
+2025-03-31 15:32:42 [INFO] [EitaaCrawler:82] - Fetched 3 messages from nafasboutique via direct (IP: 2.187.120.162)
+2025-03-31 15:32:42 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in nafasboutique, using current time
+2025-03-31 15:32:42 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 1 in nafasboutique, using current time
+2025-03-31 15:32:42 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 2 in nafasboutique, using current time
+2025-03-31 15:32:44 [INFO] [EitaaCrawler:82] - Fetched 5 messages from accessorizarmoo via direct (IP: 2.187.120.162)
+2025-03-31 15:32:44 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19664 in accessorizarmoo, using current time
+2025-03-31 15:32:44 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19665 in accessorizarmoo, using current time
+2025-03-31 15:32:44 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19669 in accessorizarmoo, using current time
+2025-03-31 15:32:44 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19670 in accessorizarmoo, using current time
+2025-03-31 15:32:44 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 19673 in accessorizarmoo, using current time
+2025-03-31 15:32:46 [INFO] [EitaaCrawler:82] - Fetched 12 messages from kasbkarr via direct (IP: 2.187.120.162)
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47082 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47084 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47085 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47089 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47091 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47092 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47093 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47094 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47095 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47096 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47097 in kasbkarr, using current time
+2025-03-31 15:32:47 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 47098 in kasbkarr, using current time
+2025-03-31 15:32:49 [INFO] [EitaaCrawler:82] - Fetched 12 messages from Yekta_gold_yazd via direct (IP: 2.187.120.162)
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27994 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27995 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27996 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27997 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27998 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 27999 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28000 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28001 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28002 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28004 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28005 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:49 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 28006 in Yekta_gold_yazd, using current time
+2025-03-31 15:32:50 [INFO] [EitaaCrawler:233] - Saved 5 channel bios
+2025-03-31 15:32:50 [INFO] [EitaaCrawler:245] - Batch 2 completed in 13.82 seconds, 5 failures
+2025-03-31 15:32:50 [INFO] [EitaaCrawler:90] - Processing batch 3/10 with 10 channels
+2025-03-31 15:32:51 [INFO] [EitaaCrawler:82] - Fetched 12 messages from iscanews_ir via direct (IP: 2.187.120.162)
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31044 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31045 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31046 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31047 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31048 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31049 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31050 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31051 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31052 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31053 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31054 in iscanews_ir, using current time
+2025-03-31 15:32:51 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 31055 in iscanews_ir, using current time
+2025-03-31 15:32:53 [INFO] [EitaaCrawler:82] - Fetched 6 messages from khndebazar via direct (IP: 2.187.120.162)
+2025-03-31 15:32:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 24 in khndebazar, using current time
+2025-03-31 15:32:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 34 in khndebazar, using current time
+2025-03-31 15:32:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 37 in khndebazar, using current time
+2025-03-31 15:32:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 38 in khndebazar, using current time
+2025-03-31 15:32:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 38 in khndebazar, using current time
+2025-03-31 15:32:53 [WARNING] [EitaaCrawler:169] - No timestamp extracted for message 39 in khndebazar, using current time

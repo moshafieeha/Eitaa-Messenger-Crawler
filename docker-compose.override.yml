@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  # Override crawler service for development
+  crawler:
+    # Mount the app directory for development
+    volumes:
+      - ./app:/app
+      - ./config:/config
+      - crawler_data:/data
+    # Environment overrides for development
+    environment:
+      - LOG_LEVEL=DEBUG
+      - CRAWL_INTERVAL_SECONDS=600  # 10 minutes interval for development
+      - CUMULATIVE_JSON_ITERATIONS=5  # Keep fewer iterations during development
+    # Override command for development
+    command: python -m app.eita_crawler --interval 600
+
+  # Add development tools
+  adminer:
+    image: adminer:latest
+    container_name: adminer
+    restart: unless-stopped
+    ports:
+      - "8081:8080"
+    networks:
+      - crawler_network
+    depends_on:
+      - kafka
+
+  # Development environment for testing and debugging
+  dev-environment:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: eitaa-dev
+    volumes:
+      - ./app:/app
+      - ./config:/config
+      - ./tests:/tests
+      - crawler_data:/data
+    environment:
+      - PYTHONUNBUFFERED=1
+      - LOG_LEVEL=DEBUG
+    networks:
+      - crawler_network
+    command: /bin/bash
+    stdin_open: true
+    tty: true

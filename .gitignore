@@ -1,0 +1,10 @@
+# .gitignore
+# Ignore configuration and output files
+/users.json
+/config/users.json
+!/config/users.json.example
+output/
+*.pyc
+__pycache__/
+.DS_Store
+
